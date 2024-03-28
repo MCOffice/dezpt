@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+
+body{
+
+
+    background-image: url('https://cdn.discordapp.com/attachments/1073281295456665641/1096180366152323102/ShapesBackground.gif.e77deac2da454ff7c9b2fd4e180429cc.gif?ex=660f1705&is=65fca205&hm=97325141662f175d8f00d3c8ab76eebffe6837d709a3c22105d797d846b413a2&');
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+
+    font-family: "Itim", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+
+
+h1 {
+    text-shadow: 6px 7px 4px #000000;
+    font-weight: bold;
+    font-style: bold;
+}
+
+header {
+    text-shadow: 6px 7px 4px #000000;
+    font-weight: bold;
+    font-style: bold;
+}
+
+div {
+    color: aliceblue;
+    text-shadow: 6px 7px 4px #000000;
+    font-weight: bold;
+    font-style: bold;
+}
+
+footer {
+    color: aliceblue;
+    text-shadow: 6px 7px 4px #000000;
+    font-weight: bold;
+    font-style: bold;
+}
+
+h2 {
+    color: aliceblue;
+    text-shadow: 6px 7px 4px #000000;
+    font-weight: bold;
+    font-style: bold;
+}
+
+footer {
+    color: rgb(255, 255, 255);
+    text-shadow: 6px 7px 4px #000000;
+    font-weight: bold;
+    font-style: bold;
+}
+
+a {
+    color: rgb(255, 255, 255);
+    text-shadow: 6px 7px 4px #000000;
+    font-weight: bold;
+    font-style: bold;
+}
+
+h6 {
+    font-weight: bold;
+}
